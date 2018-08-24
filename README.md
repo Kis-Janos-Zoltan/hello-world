@@ -6,5 +6,7 @@ I am not yet familiar with GitHub yet and want to try out its branching system.
 
 ¯\_(ツ)_/¯
 
+:)
+
 Regards,
 János
